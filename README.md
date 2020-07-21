@@ -1,4 +1,8 @@
 # MDL4OW
-Multitask deep learning for open-world hyperspectral image classification 
+Few-shot Hyperspectral Image Classification With Unknown Classes Using Multitask Deep Learning
 
-## code and other materials will be released soon ...
+Shengjie Liu, Qian Shi, and Liangpei Zhang
+
+sjliu.me@gmail.com
+
+#### Code and other materials will be released soon ...
