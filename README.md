@@ -9,7 +9,7 @@ Contact: sjliu.me AT gmail.com
 Code and annotations are released here, or check [https://github.com/sjliu68/MDL4OW](https://github.com/sjliu68/MDL4OW)
 
 ## Overview
-Ordinary: road and house misclassified            |  What we do: mask out the unknown (in black)
+Ordinary: road, house, helicopter, truck misclassified            |  What we do: mask out the unknown (in black)
 :-------------------------:|:-------------------------:
 ![](https://sjliu.me/images/mdl4ow1.png)  |  ![](https://sjliu.me/images/mdl4ow2.png)
 
