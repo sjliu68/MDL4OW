@@ -42,7 +42,7 @@ Recommend Anaconda, Spyder
     --key: dataname: 'salinas', 'paviaU', 'indian'
     --gt: gtfile path
     --closs: classification loss weight, default=50 (0.5)
-    --patience: it loss not decrease for {patience} epoches, stop training
+    --patience: if the training loss does not decrease for {patience} epoches, stop training
     --output: save path for output files (model, predict probabilities, predict labels, reconstruction loss)
     --showmap: save classification map
 
