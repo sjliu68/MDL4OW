@@ -16,9 +16,7 @@ Below is a normal/closed classification. If you are familiar with hyperspectral 
 
 ##### What we do: mask out the unknown in black
 What we do here is, by using multitask deep learning, enpowering the deep learning model with the ability to identify the unknown: those masked with black color. 
-
 For the upper image (Salinas Valley), the roads and houses between farmlands are successfully identified.
-
 For the lower image (University of Pavia Campus), helicopters and trucks are successfully identified. 
 
 ![](https://sjliu.me/images/mdl4ow2.png)
