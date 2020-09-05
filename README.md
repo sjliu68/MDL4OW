@@ -8,10 +8,10 @@ This paper is published in IEEE TGRS:
 
 Code and annotations are released here, or check [https://github.com/sjliu68/MDL4OW](https://github.com/sjliu68/MDL4OW)
 
-### Overview
+## Overview
+To do
 
-
-### Key packages
+## Key packages
     tensorflow-gpu==1.9
     keras==2.1.6
     libmr
@@ -20,7 +20,7 @@ Tested on Python 3.6, Windows 10
 
 Recommend Anaconda, Spyder
     
-### How to use
+## How to use
 #### Quick usage
     python demo_salinas.py
 
