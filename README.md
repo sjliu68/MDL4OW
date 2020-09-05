@@ -4,8 +4,6 @@ Shengjie Liu, Qian Shi, and Liangpei Zhang. Few-shot Hyperspectral Image Classif
 
 Contact: sjliu.me AT gmail.com
 
-This paper is published in IEEE TGRS: 
-
 Code and annotations are released here, or check [https://github.com/sjliu68/MDL4OW](https://github.com/sjliu68/MDL4OW)
 
 ## Overview
