@@ -1,5 +1,7 @@
 # MDL4OW
 
+Source code and annotations for :
+
 Shengjie Liu, Qian Shi, and Liangpei Zhang. Few-shot Hyperspectral Image Classification With Unknown Classes Using Multitask Deep Learning. IEEE TGRS, 2020. [doi:10.1109/TGRS.2020.3018879](https://doi.org/10.1109/TGRS.2020.3018879)
 
 Contact: sjliu.me AT gmail.com
