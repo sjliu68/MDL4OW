@@ -35,7 +35,7 @@ Recommend Anaconda, Spyder
     
 ## How to use
 #### Hyperspectral satellite images
-The input image is with size of imx*imy*channel. 
+The input image is with size of imx×imy×channel. 
 
 The satellite images are standard data, downloaded here: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
