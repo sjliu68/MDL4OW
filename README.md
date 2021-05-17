@@ -42,7 +42,7 @@ The satellite images are standard data, downloaded here: [http://www.ehu.eus/ccw
 The above data is in matlab format, the numpy format can be found here (recommended):
 [https://drive.google.com/file/d/1cEpTuP-trfRuphKWqKHjAaJhek5sqI3C/view?usp=sharing](https://drive.google.com/file/d/1cEpTuP-trfRuphKWqKHjAaJhek5sqI3C/view?usp=sharing)
 
-### update on 18 May 2021
+### Evaluation code update on 18 May 2021
 When using the evaluation code "z20210518a_readoa.py", you should change the parameter "mode" for different settings.
 
 #### Mode
