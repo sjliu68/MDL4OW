@@ -44,6 +44,8 @@ The above data is in matlab format, the numpy format can be found here (recommen
 
 ### update on 18 May 2021
 When using the evaluation code "z20210518a_readoa.py", you should change the parameter "mode" for different settings.
+
+#### Mode
     mode==0: closed-set
     mode==1: MDL4OW
     mode==2: MDL4OW/C
@@ -52,7 +54,7 @@ When using the evaluation code "z20210518a_readoa.py", you should change the par
     mode==5: openmax
 
 
-#### Quick usage
+### Quick usage
     python demo_salinas.py
 
 #### Arguments
