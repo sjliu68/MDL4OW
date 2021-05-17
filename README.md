@@ -42,16 +42,6 @@ The satellite images are standard data, downloaded here: [http://www.ehu.eus/ccw
 The above data is in matlab format, the numpy format can be found here (recommended):
 [https://drive.google.com/file/d/1cEpTuP-trfRuphKWqKHjAaJhek5sqI3C/view?usp=sharing](https://drive.google.com/file/d/1cEpTuP-trfRuphKWqKHjAaJhek5sqI3C/view?usp=sharing)
 
-### Evaluation code update on 18 May 2021
-When using the evaluation code "z20210518a_readoa.py", you should change the parameter "mode" for different settings.
-
-#### Mode
-    mode==0: closed-set
-    mode==1: MDL4OW
-    mode==2: MDL4OW/C
-    mode==3: closed-set with probablity
-    mode==4: softmax with threshold
-    mode==5: openmax
 
 
 ### Quick usage
@@ -65,4 +55,16 @@ When using the evaluation code "z20210518a_readoa.py", you should change the par
     --patience: if the training loss does not decrease for {patience} epoches, stop training
     --output: save path for output files (model, predict probabilities, predict labels, reconstruction loss)
     --showmap: save classification map
+    
+### Evaluation code update on 18 May 2021
+When using the evaluation code "z20210518a_readoa.py", you should change the parameter "mode" for different settings.
+
+#### Mode
+    mode==0: closed-set
+    mode==1: MDL4OW
+    mode==2: MDL4OW/C
+    mode==3: closed-set with probablity
+    mode==4: softmax with threshold
+    mode==5: openmax
+
 
