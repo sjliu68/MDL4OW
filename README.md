@@ -57,7 +57,7 @@ The above data is in matlab format, the numpy format can be found here (recommen
     --showmap: save classification map
     
 ### Evaluation code update on 18 May 2021
-When using the evaluation code "z20210518a_readoa.py", you should change the parameter "mode" for different settings.
+When using the evaluation code "z20210518a_readoa.py", you should change the parameter "mode" for different settings. The inputs are output files from the training script.
 
 #### Mode
     mode==0: closed-set
